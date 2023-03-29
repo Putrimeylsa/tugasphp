@@ -106,3 +106,4 @@ switch (true) {
     <?php } ?>
 </tfoot>
 </table>
+

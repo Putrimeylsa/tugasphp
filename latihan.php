@@ -50,6 +50,7 @@ foreach ($buah2an as $b){
 <td><?= $b['harga'] ?></td>
 <td><?= $b['jml'] ?></td>
 </tr>
+
 <?php
 $no++;
 }
