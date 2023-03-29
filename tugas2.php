@@ -109,7 +109,7 @@
     $gk = $gp + $tj + $tk;
 
     // zp = zakat profesi
-    if($agama == 'Islam' && $gk >= 6000000){
+    if($agama == ' Islam' && $gk >= 6000000){
         $zp = 0.025 * $gk;
     }else{
         $zp = 0;
